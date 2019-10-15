@@ -18,3 +18,13 @@ DataGeneration/NextYearData_actualData_test.txt
 DataGeneration/Predicted_NextYearData.txt
 DataGeneration/ThisYearData_actualData_test.txt
 DataGeneration/NextYearData_actualData_train.txt
+DataGeneration/companytestdata/CLASS 2.csv
+DataGeneration/companytestdata/CLASS 1.csv
+DataGeneration/companytestdata/CLASS 0.csv
+DataGeneration/companytestdata/studyDATA_withCat.csv
+DataGeneration/test - select new dataset/test_set.txt
+DataGeneration/test - select new dataset/g_training_set_10000_10000_10000.txt
+DataGeneration/test - select new dataset/training_set_2231_2231_2231.txt
+DataGeneration/test - select new dataset/original generated data set/test_set.txt
+DataGeneration/test - select new dataset/original generated data set/g_training_set_10000_10000_10000.txt
+DataGeneration/test - select new dataset/original generated data set/training_set_2231_2231_2231.txt
