@@ -38,3 +38,7 @@ BP/S000501 - regression/train.txt
 BP/S000501 - regression/test.txt
 BP/Hypertension/test.txt
 BP/Hypertension/train.txt
+BP/S000502 - regression/test.txt
+BP/Hypertension/ypred_s000501.txt
+BP/S000502 - regression/train.txt
+BP/Hypertension/ypred_s000502.txt
