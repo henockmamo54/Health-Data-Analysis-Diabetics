@@ -34,3 +34,7 @@ BP/S000501 - regression/xtrain.txt
 BP/S000501 - regression/ytrain.txt
 BP/S000501 - regression/ypred_s000501.txt
 BP/S000501 - regression/xtest.txt
+BP/S000501 - regression/train.txt
+BP/S000501 - regression/test.txt
+BP/Hypertension/test.txt
+BP/Hypertension/train.txt
