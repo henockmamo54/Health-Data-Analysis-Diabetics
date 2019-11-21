@@ -168,3 +168,8 @@ ischemic/DATASET_2019-10-24/DataGeneration/xgboost/models/ISchemiaModel_nextyear
 ischemic/DATASET_2019-10-24/DataGeneration/xgboost/models/ISchemiaModel_nextyear_L103300_XGBRegressor
 ischemic/DATASET_2019-10-24/DataGeneration/xgboost/models/ISchemiaModel_nextyear_S000300_XGBRegressor
 ischemic/DATASET_2019-10-24/ischemic-classification/ISchemicClassifierModel_rf
+hyperlipidemia/hyperlipidemia-classification/test.txt
+hyperlipidemia/DataGeneration/Next_year_test.txt
+hyperlipidemia/DataGeneration/Next_year_train.txt
+hyperlipidemia/DataGeneration/Next_year_predicted_test.txt
+hyperlipidemia/hyperlipidemia-classification/train.txt
