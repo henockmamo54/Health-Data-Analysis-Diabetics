@@ -194,3 +194,6 @@ Diabetes/DataGeneration_V2_for_next_year_classifier - Copy/NextYearData_actualDa
 Diabetes/DataGeneration_V2_for_next_year_classifier - Copy/Predicted_NextYearData.txt
 Diabetes/DataGeneration_V2_for_next_year_classifier - Copy/ThisYearData_actualData_train.txt
 Diabetes/DataGeneration_V2_for_next_year_classifier - Copy/ThisYearData_actualData_test.txt
+Diabetes/check_probabilities/dataset/_XLable_forischemic.txt
+Diabetes/check_probabilities/dataset/_TargetLable_forischemic.txt
+Diabetes/check_probabilities/dataset/DATASET_2019-10-24_light.txt
